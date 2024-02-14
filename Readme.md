@@ -15,8 +15,8 @@ This project is a simple web application that tells jokes to users upon request.
 - VoiceRSS API
 - Font Awesome (for icon styling)
 
-##J0ke Teller FlowChart
-![Jke Teller Flowchart](Joke-Teller-Flowchart.png)
+## Joke Teller FlowChart
+![Joke Teller Flowchart](Joke-Teller-Flowchart.png)
 
 
 ## Usage
